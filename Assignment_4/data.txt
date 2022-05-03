@@ -1,0 +1,14 @@
+Ellipse, 100, 95, 70, 85, YELLOW
+Rectangle, 35, 52, 130, 15, BROWN
+Circle, 100, 60, 32, LIGHTGRAY
+Circle, 100, 60, 17, YELLOW
+Ellipse, 100, 60, 16, 12, WHITE
+Circle, 100, 60, 9, LIGHTBLUE
+Circle, 100, 60, 4, BURLYWOOD
+Ellipse, 100, 125, 40, 15, ALICEBLUE
+Line, 100, 11, 100, 2
+Line, 90, 13, 85, 3
+Line, 110, 13, 115, 3
+Line, 80, 16, 70, 3
+Line, 120, 16, 130, 3
+Text, 80, 200, STUART
